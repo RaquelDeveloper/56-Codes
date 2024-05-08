@@ -1,0 +1,16 @@
+C:\Users\edwin\Desktop\56-codes\56-codes\obj\Debug\net8.0-windows\_56_codes.Vista.resources
+C:\Users\edwin\Desktop\56-codes\56-codes\obj\Debug\net8.0-windows\1.areaRectangulo.csproj.GenerateResource.cache
+C:\Users\edwin\Desktop\56-codes\56-codes\obj\Debug\net8.0-windows\1.areaRectangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\56-codes\56-codes\obj\Debug\net8.0-windows\1.areaRectangulo.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\56-codes\56-codes\obj\Debug\net8.0-windows\1.areaRectangulo.AssemblyInfo.cs
+C:\Users\edwin\Desktop\56-codes\56-codes\obj\Debug\net8.0-windows\1.areaRectangulo.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\56-codes\56-codes\bin\Debug\net8.0-windows\1.areaRectangulo.exe
+C:\Users\edwin\Desktop\56-codes\56-codes\bin\Debug\net8.0-windows\1.areaRectangulo.deps.json
+C:\Users\edwin\Desktop\56-codes\56-codes\bin\Debug\net8.0-windows\1.areaRectangulo.runtimeconfig.json
+C:\Users\edwin\Desktop\56-codes\56-codes\bin\Debug\net8.0-windows\1.areaRectangulo.dll
+C:\Users\edwin\Desktop\56-codes\56-codes\bin\Debug\net8.0-windows\1.areaRectangulo.pdb
+C:\Users\edwin\Desktop\56-codes\56-codes\obj\Debug\net8.0-windows\1.areaRectangulo.dll
+C:\Users\edwin\Desktop\56-codes\56-codes\obj\Debug\net8.0-windows\refint\1.areaRectangulo.dll
+C:\Users\edwin\Desktop\56-codes\56-codes\obj\Debug\net8.0-windows\1.areaRectangulo.pdb
+C:\Users\edwin\Desktop\56-codes\56-codes\obj\Debug\net8.0-windows\1.areaRectangulo.genruntimeconfig.cache
+C:\Users\edwin\Desktop\56-codes\56-codes\obj\Debug\net8.0-windows\ref\1.areaRectangulo.dll

@@ -1,0 +1,17 @@
+C:\Users\edwin\Desktop\56-codes\56-codes\bin\Debug\net8.0-windows\56-codes.exe
+C:\Users\edwin\Desktop\56-codes\56-codes\bin\Debug\net8.0-windows\56-codes.deps.json
+C:\Users\edwin\Desktop\56-codes\56-codes\bin\Debug\net8.0-windows\56-codes.runtimeconfig.json
+C:\Users\edwin\Desktop\56-codes\56-codes\bin\Debug\net8.0-windows\56-codes.dll
+C:\Users\edwin\Desktop\56-codes\56-codes\bin\Debug\net8.0-windows\56-codes.pdb
+C:\Users\edwin\Desktop\56-codes\56-codes\obj\Debug\net8.0-windows\_56_codes.Vista.resources
+C:\Users\edwin\Desktop\56-codes\56-codes\obj\Debug\net8.0-windows\56-codes.csproj.GenerateResource.cache
+C:\Users\edwin\Desktop\56-codes\56-codes\obj\Debug\net8.0-windows\56-codes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\56-codes\56-codes\obj\Debug\net8.0-windows\56-codes.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\56-codes\56-codes\obj\Debug\net8.0-windows\56-codes.AssemblyInfo.cs
+C:\Users\edwin\Desktop\56-codes\56-codes\obj\Debug\net8.0-windows\56-codes.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\56-codes\56-codes\obj\Debug\net8.0-windows\56-codes.dll
+C:\Users\edwin\Desktop\56-codes\56-codes\obj\Debug\net8.0-windows\refint\56-codes.dll
+C:\Users\edwin\Desktop\56-codes\56-codes\obj\Debug\net8.0-windows\56-codes.pdb
+C:\Users\edwin\Desktop\56-codes\56-codes\obj\Debug\net8.0-windows\56-codes.genruntimeconfig.cache
+C:\Users\edwin\Desktop\56-codes\56-codes\obj\Debug\net8.0-windows\ref\56-codes.dll
+C:\Users\edwin\Desktop\56-codes\56-codes\obj\Debug\net8.0-windows\_56_codes._2.perimetroCirculo.Vista.resources
