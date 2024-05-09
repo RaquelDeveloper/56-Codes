@@ -1,0 +1,17 @@
+C:\Users\edwin\Desktop\codes\10.DeterminarFuerzaDeUnObjeto\10.DeterminarFuerzaDeUnObjeto\bin\Debug\net8.0-windows\10.DeterminarFuerzaDeUnObjeto.exe
+C:\Users\edwin\Desktop\codes\10.DeterminarFuerzaDeUnObjeto\10.DeterminarFuerzaDeUnObjeto\bin\Debug\net8.0-windows\10.DeterminarFuerzaDeUnObjeto.deps.json
+C:\Users\edwin\Desktop\codes\10.DeterminarFuerzaDeUnObjeto\10.DeterminarFuerzaDeUnObjeto\bin\Debug\net8.0-windows\10.DeterminarFuerzaDeUnObjeto.runtimeconfig.json
+C:\Users\edwin\Desktop\codes\10.DeterminarFuerzaDeUnObjeto\10.DeterminarFuerzaDeUnObjeto\bin\Debug\net8.0-windows\10.DeterminarFuerzaDeUnObjeto.dll
+C:\Users\edwin\Desktop\codes\10.DeterminarFuerzaDeUnObjeto\10.DeterminarFuerzaDeUnObjeto\bin\Debug\net8.0-windows\10.DeterminarFuerzaDeUnObjeto.pdb
+C:\Users\edwin\Desktop\codes\10.DeterminarFuerzaDeUnObjeto\10.DeterminarFuerzaDeUnObjeto\obj\Debug\net8.0-windows\_10.DeterminarFuerzaDeUnObjeto.Form1.resources
+C:\Users\edwin\Desktop\codes\10.DeterminarFuerzaDeUnObjeto\10.DeterminarFuerzaDeUnObjeto\obj\Debug\net8.0-windows\10.DeterminarFuerzaDeUnObjeto.csproj.GenerateResource.cache
+C:\Users\edwin\Desktop\codes\10.DeterminarFuerzaDeUnObjeto\10.DeterminarFuerzaDeUnObjeto\obj\Debug\net8.0-windows\10.DeterminarFuerzaDeUnObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\codes\10.DeterminarFuerzaDeUnObjeto\10.DeterminarFuerzaDeUnObjeto\obj\Debug\net8.0-windows\10.DeterminarFuerzaDeUnObjeto.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\codes\10.DeterminarFuerzaDeUnObjeto\10.DeterminarFuerzaDeUnObjeto\obj\Debug\net8.0-windows\10.DeterminarFuerzaDeUnObjeto.AssemblyInfo.cs
+C:\Users\edwin\Desktop\codes\10.DeterminarFuerzaDeUnObjeto\10.DeterminarFuerzaDeUnObjeto\obj\Debug\net8.0-windows\10.DeterminarFuerzaDeUnObjeto.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\codes\10.DeterminarFuerzaDeUnObjeto\10.DeterminarFuerzaDeUnObjeto\obj\Debug\net8.0-windows\10.DeterminarFuerzaDeUnObjeto.sourcelink.json
+C:\Users\edwin\Desktop\codes\10.DeterminarFuerzaDeUnObjeto\10.DeterminarFuerzaDeUnObjeto\obj\Debug\net8.0-windows\10.DeterminarFuerzaDeUnObjeto.dll
+C:\Users\edwin\Desktop\codes\10.DeterminarFuerzaDeUnObjeto\10.DeterminarFuerzaDeUnObjeto\obj\Debug\net8.0-windows\refint\10.DeterminarFuerzaDeUnObjeto.dll
+C:\Users\edwin\Desktop\codes\10.DeterminarFuerzaDeUnObjeto\10.DeterminarFuerzaDeUnObjeto\obj\Debug\net8.0-windows\10.DeterminarFuerzaDeUnObjeto.pdb
+C:\Users\edwin\Desktop\codes\10.DeterminarFuerzaDeUnObjeto\10.DeterminarFuerzaDeUnObjeto\obj\Debug\net8.0-windows\10.DeterminarFuerzaDeUnObjeto.genruntimeconfig.cache
+C:\Users\edwin\Desktop\codes\10.DeterminarFuerzaDeUnObjeto\10.DeterminarFuerzaDeUnObjeto\obj\Debug\net8.0-windows\ref\10.DeterminarFuerzaDeUnObjeto.dll

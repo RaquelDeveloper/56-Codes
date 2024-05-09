@@ -1,0 +1,17 @@
+C:\Users\edwin\Desktop\codes\4.raizCuadrada\4.raizCuadrada\bin\Debug\net8.0-windows\4.raizCuadrada.exe
+C:\Users\edwin\Desktop\codes\4.raizCuadrada\4.raizCuadrada\bin\Debug\net8.0-windows\4.raizCuadrada.deps.json
+C:\Users\edwin\Desktop\codes\4.raizCuadrada\4.raizCuadrada\bin\Debug\net8.0-windows\4.raizCuadrada.runtimeconfig.json
+C:\Users\edwin\Desktop\codes\4.raizCuadrada\4.raizCuadrada\bin\Debug\net8.0-windows\4.raizCuadrada.dll
+C:\Users\edwin\Desktop\codes\4.raizCuadrada\4.raizCuadrada\bin\Debug\net8.0-windows\4.raizCuadrada.pdb
+C:\Users\edwin\Desktop\codes\4.raizCuadrada\4.raizCuadrada\obj\Debug\net8.0-windows\_4.raizCuadrada.Vista.resources
+C:\Users\edwin\Desktop\codes\4.raizCuadrada\4.raizCuadrada\obj\Debug\net8.0-windows\4.raizCuadrada.csproj.GenerateResource.cache
+C:\Users\edwin\Desktop\codes\4.raizCuadrada\4.raizCuadrada\obj\Debug\net8.0-windows\4.raizCuadrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\codes\4.raizCuadrada\4.raizCuadrada\obj\Debug\net8.0-windows\4.raizCuadrada.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\codes\4.raizCuadrada\4.raizCuadrada\obj\Debug\net8.0-windows\4.raizCuadrada.AssemblyInfo.cs
+C:\Users\edwin\Desktop\codes\4.raizCuadrada\4.raizCuadrada\obj\Debug\net8.0-windows\4.raizCuadrada.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\codes\4.raizCuadrada\4.raizCuadrada\obj\Debug\net8.0-windows\4.raizCuadrada.sourcelink.json
+C:\Users\edwin\Desktop\codes\4.raizCuadrada\4.raizCuadrada\obj\Debug\net8.0-windows\4.raizCuadrada.dll
+C:\Users\edwin\Desktop\codes\4.raizCuadrada\4.raizCuadrada\obj\Debug\net8.0-windows\refint\4.raizCuadrada.dll
+C:\Users\edwin\Desktop\codes\4.raizCuadrada\4.raizCuadrada\obj\Debug\net8.0-windows\4.raizCuadrada.pdb
+C:\Users\edwin\Desktop\codes\4.raizCuadrada\4.raizCuadrada\obj\Debug\net8.0-windows\4.raizCuadrada.genruntimeconfig.cache
+C:\Users\edwin\Desktop\codes\4.raizCuadrada\4.raizCuadrada\obj\Debug\net8.0-windows\ref\4.raizCuadrada.dll

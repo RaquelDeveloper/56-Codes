@@ -1,0 +1,17 @@
+C:\Users\edwin\Desktop\codes\8.CalcularAreaTrianguloConociendo3Lados\8.CalcularAreaTrianguloConociendo3Lados\bin\Debug\net8.0-windows\8.CalcularAreaTrianguloConociendo3Lados.exe
+C:\Users\edwin\Desktop\codes\8.CalcularAreaTrianguloConociendo3Lados\8.CalcularAreaTrianguloConociendo3Lados\bin\Debug\net8.0-windows\8.CalcularAreaTrianguloConociendo3Lados.deps.json
+C:\Users\edwin\Desktop\codes\8.CalcularAreaTrianguloConociendo3Lados\8.CalcularAreaTrianguloConociendo3Lados\bin\Debug\net8.0-windows\8.CalcularAreaTrianguloConociendo3Lados.runtimeconfig.json
+C:\Users\edwin\Desktop\codes\8.CalcularAreaTrianguloConociendo3Lados\8.CalcularAreaTrianguloConociendo3Lados\bin\Debug\net8.0-windows\8.CalcularAreaTrianguloConociendo3Lados.dll
+C:\Users\edwin\Desktop\codes\8.CalcularAreaTrianguloConociendo3Lados\8.CalcularAreaTrianguloConociendo3Lados\bin\Debug\net8.0-windows\8.CalcularAreaTrianguloConociendo3Lados.pdb
+C:\Users\edwin\Desktop\codes\8.CalcularAreaTrianguloConociendo3Lados\8.CalcularAreaTrianguloConociendo3Lados\obj\Debug\net8.0-windows\_8.CalcularAreaTrianguloConociendo3Lados.Form1.resources
+C:\Users\edwin\Desktop\codes\8.CalcularAreaTrianguloConociendo3Lados\8.CalcularAreaTrianguloConociendo3Lados\obj\Debug\net8.0-windows\8.CalcularAreaTrianguloConociendo3Lados.csproj.GenerateResource.cache
+C:\Users\edwin\Desktop\codes\8.CalcularAreaTrianguloConociendo3Lados\8.CalcularAreaTrianguloConociendo3Lados\obj\Debug\net8.0-windows\8.CalcularAreaTrianguloConociendo3Lados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\codes\8.CalcularAreaTrianguloConociendo3Lados\8.CalcularAreaTrianguloConociendo3Lados\obj\Debug\net8.0-windows\8.CalcularAreaTrianguloConociendo3Lados.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\codes\8.CalcularAreaTrianguloConociendo3Lados\8.CalcularAreaTrianguloConociendo3Lados\obj\Debug\net8.0-windows\8.CalcularAreaTrianguloConociendo3Lados.AssemblyInfo.cs
+C:\Users\edwin\Desktop\codes\8.CalcularAreaTrianguloConociendo3Lados\8.CalcularAreaTrianguloConociendo3Lados\obj\Debug\net8.0-windows\8.CalcularAreaTrianguloConociendo3Lados.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\codes\8.CalcularAreaTrianguloConociendo3Lados\8.CalcularAreaTrianguloConociendo3Lados\obj\Debug\net8.0-windows\8.CalcularAreaTrianguloConociendo3Lados.sourcelink.json
+C:\Users\edwin\Desktop\codes\8.CalcularAreaTrianguloConociendo3Lados\8.CalcularAreaTrianguloConociendo3Lados\obj\Debug\net8.0-windows\8.CalcularAreaTrianguloConociendo3Lados.dll
+C:\Users\edwin\Desktop\codes\8.CalcularAreaTrianguloConociendo3Lados\8.CalcularAreaTrianguloConociendo3Lados\obj\Debug\net8.0-windows\refint\8.CalcularAreaTrianguloConociendo3Lados.dll
+C:\Users\edwin\Desktop\codes\8.CalcularAreaTrianguloConociendo3Lados\8.CalcularAreaTrianguloConociendo3Lados\obj\Debug\net8.0-windows\8.CalcularAreaTrianguloConociendo3Lados.pdb
+C:\Users\edwin\Desktop\codes\8.CalcularAreaTrianguloConociendo3Lados\8.CalcularAreaTrianguloConociendo3Lados\obj\Debug\net8.0-windows\8.CalcularAreaTrianguloConociendo3Lados.genruntimeconfig.cache
+C:\Users\edwin\Desktop\codes\8.CalcularAreaTrianguloConociendo3Lados\8.CalcularAreaTrianguloConociendo3Lados\obj\Debug\net8.0-windows\ref\8.CalcularAreaTrianguloConociendo3Lados.dll

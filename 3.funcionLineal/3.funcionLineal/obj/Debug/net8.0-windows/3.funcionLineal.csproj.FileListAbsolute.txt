@@ -1,0 +1,17 @@
+C:\Users\edwin\Desktop\codes\3.funcionLineal\3.funcionLineal\bin\Debug\net8.0-windows\3.funcionLineal.exe
+C:\Users\edwin\Desktop\codes\3.funcionLineal\3.funcionLineal\bin\Debug\net8.0-windows\3.funcionLineal.deps.json
+C:\Users\edwin\Desktop\codes\3.funcionLineal\3.funcionLineal\bin\Debug\net8.0-windows\3.funcionLineal.runtimeconfig.json
+C:\Users\edwin\Desktop\codes\3.funcionLineal\3.funcionLineal\bin\Debug\net8.0-windows\3.funcionLineal.dll
+C:\Users\edwin\Desktop\codes\3.funcionLineal\3.funcionLineal\bin\Debug\net8.0-windows\3.funcionLineal.pdb
+C:\Users\edwin\Desktop\codes\3.funcionLineal\3.funcionLineal\obj\Debug\net8.0-windows\_3.funcionLineal.vista.resources
+C:\Users\edwin\Desktop\codes\3.funcionLineal\3.funcionLineal\obj\Debug\net8.0-windows\3.funcionLineal.csproj.GenerateResource.cache
+C:\Users\edwin\Desktop\codes\3.funcionLineal\3.funcionLineal\obj\Debug\net8.0-windows\3.funcionLineal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\codes\3.funcionLineal\3.funcionLineal\obj\Debug\net8.0-windows\3.funcionLineal.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\codes\3.funcionLineal\3.funcionLineal\obj\Debug\net8.0-windows\3.funcionLineal.AssemblyInfo.cs
+C:\Users\edwin\Desktop\codes\3.funcionLineal\3.funcionLineal\obj\Debug\net8.0-windows\3.funcionLineal.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\codes\3.funcionLineal\3.funcionLineal\obj\Debug\net8.0-windows\3.funcionLineal.sourcelink.json
+C:\Users\edwin\Desktop\codes\3.funcionLineal\3.funcionLineal\obj\Debug\net8.0-windows\3.funcionLineal.dll
+C:\Users\edwin\Desktop\codes\3.funcionLineal\3.funcionLineal\obj\Debug\net8.0-windows\refint\3.funcionLineal.dll
+C:\Users\edwin\Desktop\codes\3.funcionLineal\3.funcionLineal\obj\Debug\net8.0-windows\3.funcionLineal.pdb
+C:\Users\edwin\Desktop\codes\3.funcionLineal\3.funcionLineal\obj\Debug\net8.0-windows\3.funcionLineal.genruntimeconfig.cache
+C:\Users\edwin\Desktop\codes\3.funcionLineal\3.funcionLineal\obj\Debug\net8.0-windows\ref\3.funcionLineal.dll

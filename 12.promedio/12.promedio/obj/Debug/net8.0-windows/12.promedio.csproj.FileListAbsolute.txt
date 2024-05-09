@@ -1,0 +1,17 @@
+C:\Users\edwin\Desktop\codes\12.promedio\12.promedio\bin\Debug\net8.0-windows\12.promedio.exe
+C:\Users\edwin\Desktop\codes\12.promedio\12.promedio\bin\Debug\net8.0-windows\12.promedio.deps.json
+C:\Users\edwin\Desktop\codes\12.promedio\12.promedio\bin\Debug\net8.0-windows\12.promedio.runtimeconfig.json
+C:\Users\edwin\Desktop\codes\12.promedio\12.promedio\bin\Debug\net8.0-windows\12.promedio.dll
+C:\Users\edwin\Desktop\codes\12.promedio\12.promedio\bin\Debug\net8.0-windows\12.promedio.pdb
+C:\Users\edwin\Desktop\codes\12.promedio\12.promedio\obj\Debug\net8.0-windows\_12.promedio.Form1.resources
+C:\Users\edwin\Desktop\codes\12.promedio\12.promedio\obj\Debug\net8.0-windows\12.promedio.csproj.GenerateResource.cache
+C:\Users\edwin\Desktop\codes\12.promedio\12.promedio\obj\Debug\net8.0-windows\12.promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\codes\12.promedio\12.promedio\obj\Debug\net8.0-windows\12.promedio.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\codes\12.promedio\12.promedio\obj\Debug\net8.0-windows\12.promedio.AssemblyInfo.cs
+C:\Users\edwin\Desktop\codes\12.promedio\12.promedio\obj\Debug\net8.0-windows\12.promedio.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\codes\12.promedio\12.promedio\obj\Debug\net8.0-windows\12.promedio.sourcelink.json
+C:\Users\edwin\Desktop\codes\12.promedio\12.promedio\obj\Debug\net8.0-windows\12.promedio.dll
+C:\Users\edwin\Desktop\codes\12.promedio\12.promedio\obj\Debug\net8.0-windows\refint\12.promedio.dll
+C:\Users\edwin\Desktop\codes\12.promedio\12.promedio\obj\Debug\net8.0-windows\12.promedio.pdb
+C:\Users\edwin\Desktop\codes\12.promedio\12.promedio\obj\Debug\net8.0-windows\12.promedio.genruntimeconfig.cache
+C:\Users\edwin\Desktop\codes\12.promedio\12.promedio\obj\Debug\net8.0-windows\ref\12.promedio.dll

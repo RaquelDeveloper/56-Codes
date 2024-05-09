@@ -1,0 +1,17 @@
+C:\Users\edwin\Desktop\codes\11.CalcularCoseno\11.CalcularCoseno\bin\Debug\net8.0-windows\11.CalcularCoseno.exe
+C:\Users\edwin\Desktop\codes\11.CalcularCoseno\11.CalcularCoseno\bin\Debug\net8.0-windows\11.CalcularCoseno.deps.json
+C:\Users\edwin\Desktop\codes\11.CalcularCoseno\11.CalcularCoseno\bin\Debug\net8.0-windows\11.CalcularCoseno.runtimeconfig.json
+C:\Users\edwin\Desktop\codes\11.CalcularCoseno\11.CalcularCoseno\bin\Debug\net8.0-windows\11.CalcularCoseno.dll
+C:\Users\edwin\Desktop\codes\11.CalcularCoseno\11.CalcularCoseno\bin\Debug\net8.0-windows\11.CalcularCoseno.pdb
+C:\Users\edwin\Desktop\codes\11.CalcularCoseno\11.CalcularCoseno\obj\Debug\net8.0-windows\_11.CalcularCoseno.Form1.resources
+C:\Users\edwin\Desktop\codes\11.CalcularCoseno\11.CalcularCoseno\obj\Debug\net8.0-windows\11.CalcularCoseno.csproj.GenerateResource.cache
+C:\Users\edwin\Desktop\codes\11.CalcularCoseno\11.CalcularCoseno\obj\Debug\net8.0-windows\11.CalcularCoseno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\codes\11.CalcularCoseno\11.CalcularCoseno\obj\Debug\net8.0-windows\11.CalcularCoseno.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\codes\11.CalcularCoseno\11.CalcularCoseno\obj\Debug\net8.0-windows\11.CalcularCoseno.AssemblyInfo.cs
+C:\Users\edwin\Desktop\codes\11.CalcularCoseno\11.CalcularCoseno\obj\Debug\net8.0-windows\11.CalcularCoseno.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\codes\11.CalcularCoseno\11.CalcularCoseno\obj\Debug\net8.0-windows\11.CalcularCoseno.sourcelink.json
+C:\Users\edwin\Desktop\codes\11.CalcularCoseno\11.CalcularCoseno\obj\Debug\net8.0-windows\11.CalcularCoseno.dll
+C:\Users\edwin\Desktop\codes\11.CalcularCoseno\11.CalcularCoseno\obj\Debug\net8.0-windows\refint\11.CalcularCoseno.dll
+C:\Users\edwin\Desktop\codes\11.CalcularCoseno\11.CalcularCoseno\obj\Debug\net8.0-windows\11.CalcularCoseno.pdb
+C:\Users\edwin\Desktop\codes\11.CalcularCoseno\11.CalcularCoseno\obj\Debug\net8.0-windows\11.CalcularCoseno.genruntimeconfig.cache
+C:\Users\edwin\Desktop\codes\11.CalcularCoseno\11.CalcularCoseno\obj\Debug\net8.0-windows\ref\11.CalcularCoseno.dll

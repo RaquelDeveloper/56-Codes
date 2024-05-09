@@ -1,0 +1,17 @@
+C:\Users\edwin\Desktop\codes\5.EvaluacionDeFuncion\5.EvaluacionDeFuncion\bin\Debug\net8.0-windows\5.EvaluacionDeFuncion.exe
+C:\Users\edwin\Desktop\codes\5.EvaluacionDeFuncion\5.EvaluacionDeFuncion\bin\Debug\net8.0-windows\5.EvaluacionDeFuncion.deps.json
+C:\Users\edwin\Desktop\codes\5.EvaluacionDeFuncion\5.EvaluacionDeFuncion\bin\Debug\net8.0-windows\5.EvaluacionDeFuncion.runtimeconfig.json
+C:\Users\edwin\Desktop\codes\5.EvaluacionDeFuncion\5.EvaluacionDeFuncion\bin\Debug\net8.0-windows\5.EvaluacionDeFuncion.dll
+C:\Users\edwin\Desktop\codes\5.EvaluacionDeFuncion\5.EvaluacionDeFuncion\bin\Debug\net8.0-windows\5.EvaluacionDeFuncion.pdb
+C:\Users\edwin\Desktop\codes\5.EvaluacionDeFuncion\5.EvaluacionDeFuncion\obj\Debug\net8.0-windows\_5.EvaluacionDeFuncion.vista.resources
+C:\Users\edwin\Desktop\codes\5.EvaluacionDeFuncion\5.EvaluacionDeFuncion\obj\Debug\net8.0-windows\5.EvaluacionDeFuncion.csproj.GenerateResource.cache
+C:\Users\edwin\Desktop\codes\5.EvaluacionDeFuncion\5.EvaluacionDeFuncion\obj\Debug\net8.0-windows\5.EvaluacionDeFuncion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\codes\5.EvaluacionDeFuncion\5.EvaluacionDeFuncion\obj\Debug\net8.0-windows\5.EvaluacionDeFuncion.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\codes\5.EvaluacionDeFuncion\5.EvaluacionDeFuncion\obj\Debug\net8.0-windows\5.EvaluacionDeFuncion.AssemblyInfo.cs
+C:\Users\edwin\Desktop\codes\5.EvaluacionDeFuncion\5.EvaluacionDeFuncion\obj\Debug\net8.0-windows\5.EvaluacionDeFuncion.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\codes\5.EvaluacionDeFuncion\5.EvaluacionDeFuncion\obj\Debug\net8.0-windows\5.EvaluacionDeFuncion.sourcelink.json
+C:\Users\edwin\Desktop\codes\5.EvaluacionDeFuncion\5.EvaluacionDeFuncion\obj\Debug\net8.0-windows\5.EvaluacionDeFuncion.dll
+C:\Users\edwin\Desktop\codes\5.EvaluacionDeFuncion\5.EvaluacionDeFuncion\obj\Debug\net8.0-windows\refint\5.EvaluacionDeFuncion.dll
+C:\Users\edwin\Desktop\codes\5.EvaluacionDeFuncion\5.EvaluacionDeFuncion\obj\Debug\net8.0-windows\5.EvaluacionDeFuncion.pdb
+C:\Users\edwin\Desktop\codes\5.EvaluacionDeFuncion\5.EvaluacionDeFuncion\obj\Debug\net8.0-windows\5.EvaluacionDeFuncion.genruntimeconfig.cache
+C:\Users\edwin\Desktop\codes\5.EvaluacionDeFuncion\5.EvaluacionDeFuncion\obj\Debug\net8.0-windows\ref\5.EvaluacionDeFuncion.dll
