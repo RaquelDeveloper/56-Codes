@@ -1,0 +1,17 @@
+C:\Users\edwin\Desktop\codes\21.VerificaSiEsNegativo\21.VerificaSiEsNegativo\bin\Debug\net8.0-windows\21.VerificaSiEsNegativo.exe
+C:\Users\edwin\Desktop\codes\21.VerificaSiEsNegativo\21.VerificaSiEsNegativo\bin\Debug\net8.0-windows\21.VerificaSiEsNegativo.deps.json
+C:\Users\edwin\Desktop\codes\21.VerificaSiEsNegativo\21.VerificaSiEsNegativo\bin\Debug\net8.0-windows\21.VerificaSiEsNegativo.runtimeconfig.json
+C:\Users\edwin\Desktop\codes\21.VerificaSiEsNegativo\21.VerificaSiEsNegativo\bin\Debug\net8.0-windows\21.VerificaSiEsNegativo.dll
+C:\Users\edwin\Desktop\codes\21.VerificaSiEsNegativo\21.VerificaSiEsNegativo\bin\Debug\net8.0-windows\21.VerificaSiEsNegativo.pdb
+C:\Users\edwin\Desktop\codes\21.VerificaSiEsNegativo\21.VerificaSiEsNegativo\obj\Debug\net8.0-windows\_21.VerificaSiEsNegativo.Form1.resources
+C:\Users\edwin\Desktop\codes\21.VerificaSiEsNegativo\21.VerificaSiEsNegativo\obj\Debug\net8.0-windows\21.VerificaSiEsNegativo.csproj.GenerateResource.cache
+C:\Users\edwin\Desktop\codes\21.VerificaSiEsNegativo\21.VerificaSiEsNegativo\obj\Debug\net8.0-windows\21.VerificaSiEsNegativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\codes\21.VerificaSiEsNegativo\21.VerificaSiEsNegativo\obj\Debug\net8.0-windows\21.VerificaSiEsNegativo.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\codes\21.VerificaSiEsNegativo\21.VerificaSiEsNegativo\obj\Debug\net8.0-windows\21.VerificaSiEsNegativo.AssemblyInfo.cs
+C:\Users\edwin\Desktop\codes\21.VerificaSiEsNegativo\21.VerificaSiEsNegativo\obj\Debug\net8.0-windows\21.VerificaSiEsNegativo.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\codes\21.VerificaSiEsNegativo\21.VerificaSiEsNegativo\obj\Debug\net8.0-windows\21.VerificaSiEsNegativo.sourcelink.json
+C:\Users\edwin\Desktop\codes\21.VerificaSiEsNegativo\21.VerificaSiEsNegativo\obj\Debug\net8.0-windows\21.VerificaSiEsNegativo.dll
+C:\Users\edwin\Desktop\codes\21.VerificaSiEsNegativo\21.VerificaSiEsNegativo\obj\Debug\net8.0-windows\refint\21.VerificaSiEsNegativo.dll
+C:\Users\edwin\Desktop\codes\21.VerificaSiEsNegativo\21.VerificaSiEsNegativo\obj\Debug\net8.0-windows\21.VerificaSiEsNegativo.pdb
+C:\Users\edwin\Desktop\codes\21.VerificaSiEsNegativo\21.VerificaSiEsNegativo\obj\Debug\net8.0-windows\21.VerificaSiEsNegativo.genruntimeconfig.cache
+C:\Users\edwin\Desktop\codes\21.VerificaSiEsNegativo\21.VerificaSiEsNegativo\obj\Debug\net8.0-windows\ref\21.VerificaSiEsNegativo.dll

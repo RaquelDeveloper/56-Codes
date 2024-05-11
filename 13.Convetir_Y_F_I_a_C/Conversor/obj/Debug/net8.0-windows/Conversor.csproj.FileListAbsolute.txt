@@ -1,0 +1,22 @@
+C:\Users\edwin\source\repos\Conversor\Conversor\bin\Debug\net8.0-windows\Conversor.exe
+C:\Users\edwin\source\repos\Conversor\Conversor\bin\Debug\net8.0-windows\Conversor.deps.json
+C:\Users\edwin\source\repos\Conversor\Conversor\bin\Debug\net8.0-windows\Conversor.runtimeconfig.json
+C:\Users\edwin\source\repos\Conversor\Conversor\bin\Debug\net8.0-windows\Conversor.dll
+C:\Users\edwin\source\repos\Conversor\Conversor\bin\Debug\net8.0-windows\Conversor.pdb
+C:\Users\edwin\source\repos\Conversor\Conversor\obj\Debug\net8.0-windows\Conversor.Properties.Resources.resources
+C:\Users\edwin\source\repos\Conversor\Conversor\obj\Debug\net8.0-windows\Conversor.WelcomePages.resources
+C:\Users\edwin\source\repos\Conversor\Conversor\obj\Debug\net8.0-windows\Conversor.csproj.GenerateResource.cache
+C:\Users\edwin\source\repos\Conversor\Conversor\obj\Debug\net8.0-windows\Conversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\source\repos\Conversor\Conversor\obj\Debug\net8.0-windows\Conversor.AssemblyInfoInputs.cache
+C:\Users\edwin\source\repos\Conversor\Conversor\obj\Debug\net8.0-windows\Conversor.AssemblyInfo.cs
+C:\Users\edwin\source\repos\Conversor\Conversor\obj\Debug\net8.0-windows\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\edwin\source\repos\Conversor\Conversor\obj\Debug\net8.0-windows\Conversor.dll
+C:\Users\edwin\source\repos\Conversor\Conversor\obj\Debug\net8.0-windows\refint\Conversor.dll
+C:\Users\edwin\source\repos\Conversor\Conversor\obj\Debug\net8.0-windows\Conversor.pdb
+C:\Users\edwin\source\repos\Conversor\Conversor\obj\Debug\net8.0-windows\Conversor.genruntimeconfig.cache
+C:\Users\edwin\source\repos\Conversor\Conversor\obj\Debug\net8.0-windows\ref\Conversor.dll
+C:\Users\edwin\source\repos\Conversor\Conversor\bin\Debug\net8.0-windows\WinBlur.dll
+C:\Users\edwin\source\repos\Conversor\Conversor\obj\Debug\net8.0-windows\Conversor.csproj.AssemblyReference.cache
+C:\Users\edwin\source\repos\Conversor\Conversor\bin\Debug\net8.0-windows\MetroSet UI.dll
+C:\Users\edwin\source\repos\Conversor\Conversor\obj\Debug\net8.0-windows\Conversor.templates.ConvertPages.resources
+C:\Users\edwin\source\repos\Conversor\Conversor\obj\Debug\net8.0-windows\Conversor.csproj.Up2Date

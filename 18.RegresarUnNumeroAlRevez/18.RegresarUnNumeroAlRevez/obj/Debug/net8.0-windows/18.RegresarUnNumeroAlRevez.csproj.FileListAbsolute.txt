@@ -1,0 +1,17 @@
+C:\Users\edwin\Desktop\codes\18.RegresarUnNumeroAlRevez\18.RegresarUnNumeroAlRevez\bin\Debug\net8.0-windows\18.RegresarUnNumeroAlRevez.exe
+C:\Users\edwin\Desktop\codes\18.RegresarUnNumeroAlRevez\18.RegresarUnNumeroAlRevez\bin\Debug\net8.0-windows\18.RegresarUnNumeroAlRevez.deps.json
+C:\Users\edwin\Desktop\codes\18.RegresarUnNumeroAlRevez\18.RegresarUnNumeroAlRevez\bin\Debug\net8.0-windows\18.RegresarUnNumeroAlRevez.runtimeconfig.json
+C:\Users\edwin\Desktop\codes\18.RegresarUnNumeroAlRevez\18.RegresarUnNumeroAlRevez\bin\Debug\net8.0-windows\18.RegresarUnNumeroAlRevez.dll
+C:\Users\edwin\Desktop\codes\18.RegresarUnNumeroAlRevez\18.RegresarUnNumeroAlRevez\bin\Debug\net8.0-windows\18.RegresarUnNumeroAlRevez.pdb
+C:\Users\edwin\Desktop\codes\18.RegresarUnNumeroAlRevez\18.RegresarUnNumeroAlRevez\obj\Debug\net8.0-windows\_18.RegresarUnNumeroAlRevez.Form1.resources
+C:\Users\edwin\Desktop\codes\18.RegresarUnNumeroAlRevez\18.RegresarUnNumeroAlRevez\obj\Debug\net8.0-windows\18.RegresarUnNumeroAlRevez.csproj.GenerateResource.cache
+C:\Users\edwin\Desktop\codes\18.RegresarUnNumeroAlRevez\18.RegresarUnNumeroAlRevez\obj\Debug\net8.0-windows\18.RegresarUnNumeroAlRevez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\codes\18.RegresarUnNumeroAlRevez\18.RegresarUnNumeroAlRevez\obj\Debug\net8.0-windows\18.RegresarUnNumeroAlRevez.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\codes\18.RegresarUnNumeroAlRevez\18.RegresarUnNumeroAlRevez\obj\Debug\net8.0-windows\18.RegresarUnNumeroAlRevez.AssemblyInfo.cs
+C:\Users\edwin\Desktop\codes\18.RegresarUnNumeroAlRevez\18.RegresarUnNumeroAlRevez\obj\Debug\net8.0-windows\18.RegresarUnNumeroAlRevez.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\codes\18.RegresarUnNumeroAlRevez\18.RegresarUnNumeroAlRevez\obj\Debug\net8.0-windows\18.RegresarUnNumeroAlRevez.sourcelink.json
+C:\Users\edwin\Desktop\codes\18.RegresarUnNumeroAlRevez\18.RegresarUnNumeroAlRevez\obj\Debug\net8.0-windows\18.RegresarUnNumeroAlRevez.dll
+C:\Users\edwin\Desktop\codes\18.RegresarUnNumeroAlRevez\18.RegresarUnNumeroAlRevez\obj\Debug\net8.0-windows\refint\18.RegresarUnNumeroAlRevez.dll
+C:\Users\edwin\Desktop\codes\18.RegresarUnNumeroAlRevez\18.RegresarUnNumeroAlRevez\obj\Debug\net8.0-windows\18.RegresarUnNumeroAlRevez.pdb
+C:\Users\edwin\Desktop\codes\18.RegresarUnNumeroAlRevez\18.RegresarUnNumeroAlRevez\obj\Debug\net8.0-windows\18.RegresarUnNumeroAlRevez.genruntimeconfig.cache
+C:\Users\edwin\Desktop\codes\18.RegresarUnNumeroAlRevez\18.RegresarUnNumeroAlRevez\obj\Debug\net8.0-windows\ref\18.RegresarUnNumeroAlRevez.dll

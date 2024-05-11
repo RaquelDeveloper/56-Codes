@@ -1,0 +1,17 @@
+C:\Users\edwin\Desktop\codes\16.SistemadeEcuacionLineal_MetodoDeCramer\16.SistemadeEcuacionLineal_MetodoDeCramer\obj\Debug\net8.0-windows\_16.SistemadeEcuacionLineal_MetodoDeCramer.Form1.resources
+C:\Users\edwin\Desktop\codes\16.SistemadeEcuacionLineal_MetodoDeCramer\16.SistemadeEcuacionLineal_MetodoDeCramer\obj\Debug\net8.0-windows\16.SistemadeEcuacionLineal_MetodoDeCramer.csproj.GenerateResource.cache
+C:\Users\edwin\Desktop\codes\16.SistemadeEcuacionLineal_MetodoDeCramer\16.SistemadeEcuacionLineal_MetodoDeCramer\obj\Debug\net8.0-windows\16.SistemadeEcuacionLineal_MetodoDeCramer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\codes\16.SistemadeEcuacionLineal_MetodoDeCramer\16.SistemadeEcuacionLineal_MetodoDeCramer\obj\Debug\net8.0-windows\16.SistemadeEcuacionLineal_MetodoDeCramer.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\codes\16.SistemadeEcuacionLineal_MetodoDeCramer\16.SistemadeEcuacionLineal_MetodoDeCramer\obj\Debug\net8.0-windows\16.SistemadeEcuacionLineal_MetodoDeCramer.AssemblyInfo.cs
+C:\Users\edwin\Desktop\codes\16.SistemadeEcuacionLineal_MetodoDeCramer\16.SistemadeEcuacionLineal_MetodoDeCramer\obj\Debug\net8.0-windows\16.SistemadeEcuacionLineal_MetodoDeCramer.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\codes\16.SistemadeEcuacionLineal_MetodoDeCramer\16.SistemadeEcuacionLineal_MetodoDeCramer\obj\Debug\net8.0-windows\16.SistemadeEcuacionLineal_MetodoDeCramer.sourcelink.json
+C:\Users\edwin\Desktop\codes\16.SistemadeEcuacionLineal_MetodoDeCramer\16.SistemadeEcuacionLineal_MetodoDeCramer\bin\Debug\net8.0-windows\16.SistemadeEcuacionLineal_MetodoDeCramer.exe
+C:\Users\edwin\Desktop\codes\16.SistemadeEcuacionLineal_MetodoDeCramer\16.SistemadeEcuacionLineal_MetodoDeCramer\bin\Debug\net8.0-windows\16.SistemadeEcuacionLineal_MetodoDeCramer.deps.json
+C:\Users\edwin\Desktop\codes\16.SistemadeEcuacionLineal_MetodoDeCramer\16.SistemadeEcuacionLineal_MetodoDeCramer\bin\Debug\net8.0-windows\16.SistemadeEcuacionLineal_MetodoDeCramer.runtimeconfig.json
+C:\Users\edwin\Desktop\codes\16.SistemadeEcuacionLineal_MetodoDeCramer\16.SistemadeEcuacionLineal_MetodoDeCramer\bin\Debug\net8.0-windows\16.SistemadeEcuacionLineal_MetodoDeCramer.dll
+C:\Users\edwin\Desktop\codes\16.SistemadeEcuacionLineal_MetodoDeCramer\16.SistemadeEcuacionLineal_MetodoDeCramer\bin\Debug\net8.0-windows\16.SistemadeEcuacionLineal_MetodoDeCramer.pdb
+C:\Users\edwin\Desktop\codes\16.SistemadeEcuacionLineal_MetodoDeCramer\16.SistemadeEcuacionLineal_MetodoDeCramer\obj\Debug\net8.0-windows\16.SistemadeEcuacionLineal_MetodoDeCramer.dll
+C:\Users\edwin\Desktop\codes\16.SistemadeEcuacionLineal_MetodoDeCramer\16.SistemadeEcuacionLineal_MetodoDeCramer\obj\Debug\net8.0-windows\refint\16.SistemadeEcuacionLineal_MetodoDeCramer.dll
+C:\Users\edwin\Desktop\codes\16.SistemadeEcuacionLineal_MetodoDeCramer\16.SistemadeEcuacionLineal_MetodoDeCramer\obj\Debug\net8.0-windows\16.SistemadeEcuacionLineal_MetodoDeCramer.pdb
+C:\Users\edwin\Desktop\codes\16.SistemadeEcuacionLineal_MetodoDeCramer\16.SistemadeEcuacionLineal_MetodoDeCramer\obj\Debug\net8.0-windows\16.SistemadeEcuacionLineal_MetodoDeCramer.genruntimeconfig.cache
+C:\Users\edwin\Desktop\codes\16.SistemadeEcuacionLineal_MetodoDeCramer\16.SistemadeEcuacionLineal_MetodoDeCramer\obj\Debug\net8.0-windows\ref\16.SistemadeEcuacionLineal_MetodoDeCramer.dll

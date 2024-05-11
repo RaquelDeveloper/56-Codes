@@ -1,0 +1,17 @@
+C:\Users\edwin\Desktop\codes\23.LeerCalificacionDeAlumno\23.LeerCalificacionDeAlumno\bin\Debug\net8.0-windows\23.LeerCalificacionDeAlumno.exe
+C:\Users\edwin\Desktop\codes\23.LeerCalificacionDeAlumno\23.LeerCalificacionDeAlumno\bin\Debug\net8.0-windows\23.LeerCalificacionDeAlumno.deps.json
+C:\Users\edwin\Desktop\codes\23.LeerCalificacionDeAlumno\23.LeerCalificacionDeAlumno\bin\Debug\net8.0-windows\23.LeerCalificacionDeAlumno.runtimeconfig.json
+C:\Users\edwin\Desktop\codes\23.LeerCalificacionDeAlumno\23.LeerCalificacionDeAlumno\bin\Debug\net8.0-windows\23.LeerCalificacionDeAlumno.dll
+C:\Users\edwin\Desktop\codes\23.LeerCalificacionDeAlumno\23.LeerCalificacionDeAlumno\bin\Debug\net8.0-windows\23.LeerCalificacionDeAlumno.pdb
+C:\Users\edwin\Desktop\codes\23.LeerCalificacionDeAlumno\23.LeerCalificacionDeAlumno\obj\Debug\net8.0-windows\_23.LeerCalificacionDeAlumno.Form1.resources
+C:\Users\edwin\Desktop\codes\23.LeerCalificacionDeAlumno\23.LeerCalificacionDeAlumno\obj\Debug\net8.0-windows\23.LeerCalificacionDeAlumno.csproj.GenerateResource.cache
+C:\Users\edwin\Desktop\codes\23.LeerCalificacionDeAlumno\23.LeerCalificacionDeAlumno\obj\Debug\net8.0-windows\23.LeerCalificacionDeAlumno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\codes\23.LeerCalificacionDeAlumno\23.LeerCalificacionDeAlumno\obj\Debug\net8.0-windows\23.LeerCalificacionDeAlumno.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\codes\23.LeerCalificacionDeAlumno\23.LeerCalificacionDeAlumno\obj\Debug\net8.0-windows\23.LeerCalificacionDeAlumno.AssemblyInfo.cs
+C:\Users\edwin\Desktop\codes\23.LeerCalificacionDeAlumno\23.LeerCalificacionDeAlumno\obj\Debug\net8.0-windows\23.LeerCalificacionDeAlumno.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\codes\23.LeerCalificacionDeAlumno\23.LeerCalificacionDeAlumno\obj\Debug\net8.0-windows\23.LeerCalificacionDeAlumno.sourcelink.json
+C:\Users\edwin\Desktop\codes\23.LeerCalificacionDeAlumno\23.LeerCalificacionDeAlumno\obj\Debug\net8.0-windows\23.LeerCalificacionDeAlumno.dll
+C:\Users\edwin\Desktop\codes\23.LeerCalificacionDeAlumno\23.LeerCalificacionDeAlumno\obj\Debug\net8.0-windows\refint\23.LeerCalificacionDeAlumno.dll
+C:\Users\edwin\Desktop\codes\23.LeerCalificacionDeAlumno\23.LeerCalificacionDeAlumno\obj\Debug\net8.0-windows\23.LeerCalificacionDeAlumno.pdb
+C:\Users\edwin\Desktop\codes\23.LeerCalificacionDeAlumno\23.LeerCalificacionDeAlumno\obj\Debug\net8.0-windows\23.LeerCalificacionDeAlumno.genruntimeconfig.cache
+C:\Users\edwin\Desktop\codes\23.LeerCalificacionDeAlumno\23.LeerCalificacionDeAlumno\obj\Debug\net8.0-windows\ref\23.LeerCalificacionDeAlumno.dll

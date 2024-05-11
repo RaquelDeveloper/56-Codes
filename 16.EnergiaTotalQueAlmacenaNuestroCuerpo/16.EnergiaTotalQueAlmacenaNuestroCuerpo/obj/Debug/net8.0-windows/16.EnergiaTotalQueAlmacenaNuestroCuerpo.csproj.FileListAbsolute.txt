@@ -1,0 +1,17 @@
+C:\Users\edwin\Desktop\codes\16.EnergiaTotalQueAlmacenaNuestroCuerpo\16.EnergiaTotalQueAlmacenaNuestroCuerpo\bin\Debug\net8.0-windows\16.EnergiaTotalQueAlmacenaNuestroCuerpo.exe
+C:\Users\edwin\Desktop\codes\16.EnergiaTotalQueAlmacenaNuestroCuerpo\16.EnergiaTotalQueAlmacenaNuestroCuerpo\bin\Debug\net8.0-windows\16.EnergiaTotalQueAlmacenaNuestroCuerpo.deps.json
+C:\Users\edwin\Desktop\codes\16.EnergiaTotalQueAlmacenaNuestroCuerpo\16.EnergiaTotalQueAlmacenaNuestroCuerpo\bin\Debug\net8.0-windows\16.EnergiaTotalQueAlmacenaNuestroCuerpo.runtimeconfig.json
+C:\Users\edwin\Desktop\codes\16.EnergiaTotalQueAlmacenaNuestroCuerpo\16.EnergiaTotalQueAlmacenaNuestroCuerpo\bin\Debug\net8.0-windows\16.EnergiaTotalQueAlmacenaNuestroCuerpo.dll
+C:\Users\edwin\Desktop\codes\16.EnergiaTotalQueAlmacenaNuestroCuerpo\16.EnergiaTotalQueAlmacenaNuestroCuerpo\bin\Debug\net8.0-windows\16.EnergiaTotalQueAlmacenaNuestroCuerpo.pdb
+C:\Users\edwin\Desktop\codes\16.EnergiaTotalQueAlmacenaNuestroCuerpo\16.EnergiaTotalQueAlmacenaNuestroCuerpo\obj\Debug\net8.0-windows\_16.EnergiaTotalQueAlmacenaNuestroCuerpo.Form1.resources
+C:\Users\edwin\Desktop\codes\16.EnergiaTotalQueAlmacenaNuestroCuerpo\16.EnergiaTotalQueAlmacenaNuestroCuerpo\obj\Debug\net8.0-windows\16.EnergiaTotalQueAlmacenaNuestroCuerpo.csproj.GenerateResource.cache
+C:\Users\edwin\Desktop\codes\16.EnergiaTotalQueAlmacenaNuestroCuerpo\16.EnergiaTotalQueAlmacenaNuestroCuerpo\obj\Debug\net8.0-windows\16.EnergiaTotalQueAlmacenaNuestroCuerpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\codes\16.EnergiaTotalQueAlmacenaNuestroCuerpo\16.EnergiaTotalQueAlmacenaNuestroCuerpo\obj\Debug\net8.0-windows\16.EnergiaTotalQueAlmacenaNuestroCuerpo.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\codes\16.EnergiaTotalQueAlmacenaNuestroCuerpo\16.EnergiaTotalQueAlmacenaNuestroCuerpo\obj\Debug\net8.0-windows\16.EnergiaTotalQueAlmacenaNuestroCuerpo.AssemblyInfo.cs
+C:\Users\edwin\Desktop\codes\16.EnergiaTotalQueAlmacenaNuestroCuerpo\16.EnergiaTotalQueAlmacenaNuestroCuerpo\obj\Debug\net8.0-windows\16.EnergiaTotalQueAlmacenaNuestroCuerpo.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\codes\16.EnergiaTotalQueAlmacenaNuestroCuerpo\16.EnergiaTotalQueAlmacenaNuestroCuerpo\obj\Debug\net8.0-windows\16.EnergiaTotalQueAlmacenaNuestroCuerpo.sourcelink.json
+C:\Users\edwin\Desktop\codes\16.EnergiaTotalQueAlmacenaNuestroCuerpo\16.EnergiaTotalQueAlmacenaNuestroCuerpo\obj\Debug\net8.0-windows\16.EnergiaTotalQueAlmacenaNuestroCuerpo.dll
+C:\Users\edwin\Desktop\codes\16.EnergiaTotalQueAlmacenaNuestroCuerpo\16.EnergiaTotalQueAlmacenaNuestroCuerpo\obj\Debug\net8.0-windows\refint\16.EnergiaTotalQueAlmacenaNuestroCuerpo.dll
+C:\Users\edwin\Desktop\codes\16.EnergiaTotalQueAlmacenaNuestroCuerpo\16.EnergiaTotalQueAlmacenaNuestroCuerpo\obj\Debug\net8.0-windows\16.EnergiaTotalQueAlmacenaNuestroCuerpo.pdb
+C:\Users\edwin\Desktop\codes\16.EnergiaTotalQueAlmacenaNuestroCuerpo\16.EnergiaTotalQueAlmacenaNuestroCuerpo\obj\Debug\net8.0-windows\16.EnergiaTotalQueAlmacenaNuestroCuerpo.genruntimeconfig.cache
+C:\Users\edwin\Desktop\codes\16.EnergiaTotalQueAlmacenaNuestroCuerpo\16.EnergiaTotalQueAlmacenaNuestroCuerpo\obj\Debug\net8.0-windows\ref\16.EnergiaTotalQueAlmacenaNuestroCuerpo.dll

@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edwin\\Desktop\\codes\\28.SignosOpuestos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD8F7F1-9D87-4C61-B9CA-78B93E454D5D}|28.SignosOpuestos\\28.SignosOpuestos.csproj|c:\\users\\edwin\\desktop\\codes\\28.signosopuestos\\28.signosopuestos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD8F7F1-9D87-4C61-B9CA-78B93E454D5D}|28.SignosOpuestos\\28.SignosOpuestos.csproj|solutionrelative:28.signosopuestos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD8F7F1-9D87-4C61-B9CA-78B93E454D5D}|28.SignosOpuestos\\28.SignosOpuestos.csproj|c:\\users\\edwin\\desktop\\codes\\28.signosopuestos\\28.signosopuestos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FD8F7F1-9D87-4C61-B9CA-78B93E454D5D}|28.SignosOpuestos\\28.SignosOpuestos.csproj|solutionrelative:28.signosopuestos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD8F7F1-9D87-4C61-B9CA-78B93E454D5D}|28.SignosOpuestos\\28.SignosOpuestos.csproj|c:\\users\\edwin\\desktop\\codes\\28.signosopuestos\\28.signosopuestos\\calcular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD8F7F1-9D87-4C61-B9CA-78B93E454D5D}|28.SignosOpuestos\\28.SignosOpuestos.csproj|solutionrelative:28.signosopuestos\\calcular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 461,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\Desktop\\codes\\28.SignosOpuestos\\28.SignosOpuestos\\Form1.cs",
+              "RelativeDocumentMoniker": "28.SignosOpuestos\\Form1.cs",
+              "ToolTip": "C:\\Users\\edwin\\Desktop\\codes\\28.SignosOpuestos\\28.SignosOpuestos\\Form1.cs",
+              "RelativeToolTip": "28.SignosOpuestos\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:32:20.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calcular.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\Desktop\\codes\\28.SignosOpuestos\\28.SignosOpuestos\\Calcular.cs",
+              "RelativeDocumentMoniker": "28.SignosOpuestos\\Calcular.cs",
+              "ToolTip": "C:\\Users\\edwin\\Desktop\\codes\\28.SignosOpuestos\\28.SignosOpuestos\\Calcular.cs",
+              "RelativeToolTip": "28.SignosOpuestos\\Calcular.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:24:00.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\edwin\\Desktop\\codes\\28.SignosOpuestos\\28.SignosOpuestos\\Form1.cs",
+              "RelativeDocumentMoniker": "28.SignosOpuestos\\Form1.cs",
+              "ToolTip": "C:\\Users\\edwin\\Desktop\\codes\\28.SignosOpuestos\\28.SignosOpuestos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "28.SignosOpuestos\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:23:42.283Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 27,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\edwin\Desktop\codes\30.EntradaDeDosNumerosX\30.EntradaDeDosNumerosX\bin\Debug\net8.0-windows\30.EntradaDeDosNumerosX.exe
+C:\Users\edwin\Desktop\codes\30.EntradaDeDosNumerosX\30.EntradaDeDosNumerosX\bin\Debug\net8.0-windows\30.EntradaDeDosNumerosX.deps.json
+C:\Users\edwin\Desktop\codes\30.EntradaDeDosNumerosX\30.EntradaDeDosNumerosX\bin\Debug\net8.0-windows\30.EntradaDeDosNumerosX.runtimeconfig.json
+C:\Users\edwin\Desktop\codes\30.EntradaDeDosNumerosX\30.EntradaDeDosNumerosX\bin\Debug\net8.0-windows\30.EntradaDeDosNumerosX.dll
+C:\Users\edwin\Desktop\codes\30.EntradaDeDosNumerosX\30.EntradaDeDosNumerosX\bin\Debug\net8.0-windows\30.EntradaDeDosNumerosX.pdb
+C:\Users\edwin\Desktop\codes\30.EntradaDeDosNumerosX\30.EntradaDeDosNumerosX\obj\Debug\net8.0-windows\_30.EntradaDeDosNumerosX.Form1.resources
+C:\Users\edwin\Desktop\codes\30.EntradaDeDosNumerosX\30.EntradaDeDosNumerosX\obj\Debug\net8.0-windows\30.EntradaDeDosNumerosX.csproj.GenerateResource.cache
+C:\Users\edwin\Desktop\codes\30.EntradaDeDosNumerosX\30.EntradaDeDosNumerosX\obj\Debug\net8.0-windows\30.EntradaDeDosNumerosX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\codes\30.EntradaDeDosNumerosX\30.EntradaDeDosNumerosX\obj\Debug\net8.0-windows\30.EntradaDeDosNumerosX.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\codes\30.EntradaDeDosNumerosX\30.EntradaDeDosNumerosX\obj\Debug\net8.0-windows\30.EntradaDeDosNumerosX.AssemblyInfo.cs
+C:\Users\edwin\Desktop\codes\30.EntradaDeDosNumerosX\30.EntradaDeDosNumerosX\obj\Debug\net8.0-windows\30.EntradaDeDosNumerosX.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\codes\30.EntradaDeDosNumerosX\30.EntradaDeDosNumerosX\obj\Debug\net8.0-windows\30.EntradaDeDosNumerosX.sourcelink.json
+C:\Users\edwin\Desktop\codes\30.EntradaDeDosNumerosX\30.EntradaDeDosNumerosX\obj\Debug\net8.0-windows\30.EntradaDeDosNumerosX.dll
+C:\Users\edwin\Desktop\codes\30.EntradaDeDosNumerosX\30.EntradaDeDosNumerosX\obj\Debug\net8.0-windows\refint\30.EntradaDeDosNumerosX.dll
+C:\Users\edwin\Desktop\codes\30.EntradaDeDosNumerosX\30.EntradaDeDosNumerosX\obj\Debug\net8.0-windows\30.EntradaDeDosNumerosX.pdb
+C:\Users\edwin\Desktop\codes\30.EntradaDeDosNumerosX\30.EntradaDeDosNumerosX\obj\Debug\net8.0-windows\30.EntradaDeDosNumerosX.genruntimeconfig.cache
+C:\Users\edwin\Desktop\codes\30.EntradaDeDosNumerosX\30.EntradaDeDosNumerosX\obj\Debug\net8.0-windows\ref\30.EntradaDeDosNumerosX.dll

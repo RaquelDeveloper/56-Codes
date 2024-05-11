@@ -1,0 +1,17 @@
+C:\Users\edwin\Desktop\codes\20.ParOImpar\20.ParOImpar\bin\Debug\net8.0-windows\20.ParOImpar.exe
+C:\Users\edwin\Desktop\codes\20.ParOImpar\20.ParOImpar\bin\Debug\net8.0-windows\20.ParOImpar.deps.json
+C:\Users\edwin\Desktop\codes\20.ParOImpar\20.ParOImpar\bin\Debug\net8.0-windows\20.ParOImpar.runtimeconfig.json
+C:\Users\edwin\Desktop\codes\20.ParOImpar\20.ParOImpar\bin\Debug\net8.0-windows\20.ParOImpar.dll
+C:\Users\edwin\Desktop\codes\20.ParOImpar\20.ParOImpar\bin\Debug\net8.0-windows\20.ParOImpar.pdb
+C:\Users\edwin\Desktop\codes\20.ParOImpar\20.ParOImpar\obj\Debug\net8.0-windows\_20.ParOImpar.Form1.resources
+C:\Users\edwin\Desktop\codes\20.ParOImpar\20.ParOImpar\obj\Debug\net8.0-windows\20.ParOImpar.csproj.GenerateResource.cache
+C:\Users\edwin\Desktop\codes\20.ParOImpar\20.ParOImpar\obj\Debug\net8.0-windows\20.ParOImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\codes\20.ParOImpar\20.ParOImpar\obj\Debug\net8.0-windows\20.ParOImpar.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\codes\20.ParOImpar\20.ParOImpar\obj\Debug\net8.0-windows\20.ParOImpar.AssemblyInfo.cs
+C:\Users\edwin\Desktop\codes\20.ParOImpar\20.ParOImpar\obj\Debug\net8.0-windows\20.ParOImpar.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\codes\20.ParOImpar\20.ParOImpar\obj\Debug\net8.0-windows\20.ParOImpar.sourcelink.json
+C:\Users\edwin\Desktop\codes\20.ParOImpar\20.ParOImpar\obj\Debug\net8.0-windows\20.ParOImpar.dll
+C:\Users\edwin\Desktop\codes\20.ParOImpar\20.ParOImpar\obj\Debug\net8.0-windows\refint\20.ParOImpar.dll
+C:\Users\edwin\Desktop\codes\20.ParOImpar\20.ParOImpar\obj\Debug\net8.0-windows\20.ParOImpar.pdb
+C:\Users\edwin\Desktop\codes\20.ParOImpar\20.ParOImpar\obj\Debug\net8.0-windows\20.ParOImpar.genruntimeconfig.cache
+C:\Users\edwin\Desktop\codes\20.ParOImpar\20.ParOImpar\obj\Debug\net8.0-windows\ref\20.ParOImpar.dll

@@ -1,0 +1,17 @@
+C:\Users\edwin\Desktop\codes\19.VotanteONO\19.VotanteONO\bin\Debug\net8.0-windows\19.VotanteONO.exe
+C:\Users\edwin\Desktop\codes\19.VotanteONO\19.VotanteONO\bin\Debug\net8.0-windows\19.VotanteONO.deps.json
+C:\Users\edwin\Desktop\codes\19.VotanteONO\19.VotanteONO\bin\Debug\net8.0-windows\19.VotanteONO.runtimeconfig.json
+C:\Users\edwin\Desktop\codes\19.VotanteONO\19.VotanteONO\bin\Debug\net8.0-windows\19.VotanteONO.dll
+C:\Users\edwin\Desktop\codes\19.VotanteONO\19.VotanteONO\bin\Debug\net8.0-windows\19.VotanteONO.pdb
+C:\Users\edwin\Desktop\codes\19.VotanteONO\19.VotanteONO\obj\Debug\net8.0-windows\_19.VotanteONO.Form1.resources
+C:\Users\edwin\Desktop\codes\19.VotanteONO\19.VotanteONO\obj\Debug\net8.0-windows\19.VotanteONO.csproj.GenerateResource.cache
+C:\Users\edwin\Desktop\codes\19.VotanteONO\19.VotanteONO\obj\Debug\net8.0-windows\19.VotanteONO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\codes\19.VotanteONO\19.VotanteONO\obj\Debug\net8.0-windows\19.VotanteONO.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\codes\19.VotanteONO\19.VotanteONO\obj\Debug\net8.0-windows\19.VotanteONO.AssemblyInfo.cs
+C:\Users\edwin\Desktop\codes\19.VotanteONO\19.VotanteONO\obj\Debug\net8.0-windows\19.VotanteONO.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\codes\19.VotanteONO\19.VotanteONO\obj\Debug\net8.0-windows\19.VotanteONO.sourcelink.json
+C:\Users\edwin\Desktop\codes\19.VotanteONO\19.VotanteONO\obj\Debug\net8.0-windows\19.VotanteONO.dll
+C:\Users\edwin\Desktop\codes\19.VotanteONO\19.VotanteONO\obj\Debug\net8.0-windows\refint\19.VotanteONO.dll
+C:\Users\edwin\Desktop\codes\19.VotanteONO\19.VotanteONO\obj\Debug\net8.0-windows\19.VotanteONO.pdb
+C:\Users\edwin\Desktop\codes\19.VotanteONO\19.VotanteONO\obj\Debug\net8.0-windows\19.VotanteONO.genruntimeconfig.cache
+C:\Users\edwin\Desktop\codes\19.VotanteONO\19.VotanteONO\obj\Debug\net8.0-windows\ref\19.VotanteONO.dll

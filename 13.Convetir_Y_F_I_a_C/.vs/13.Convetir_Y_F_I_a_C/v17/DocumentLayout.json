@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edwin\\source\\repos\\Conversor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F998B8A-27CB-42C0-B0EA-D9EA87710F1E}|Conversor\\Conversor.csproj|c:\\users\\edwin\\source\\repos\\conversor\\conversor\\templates\\convertpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F998B8A-27CB-42C0-B0EA-D9EA87710F1E}|Conversor\\Conversor.csproj|solutionrelative:conversor\\templates\\convertpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F998B8A-27CB-42C0-B0EA-D9EA87710F1E}|Conversor\\Conversor.csproj|C:\\Users\\edwin\\source\\repos\\Conversor\\conversor\\templates\\welcomepages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F998B8A-27CB-42C0-B0EA-D9EA87710F1E}|Conversor\\Conversor.csproj|solutionrelative:conversor\\templates\\welcomepages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F998B8A-27CB-42C0-B0EA-D9EA87710F1E}|Conversor\\Conversor.csproj|C:\\Users\\edwin\\source\\repos\\Conversor\\conversor\\models\\selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F998B8A-27CB-42C0-B0EA-D9EA87710F1E}|Conversor\\Conversor.csproj|solutionrelative:conversor\\models\\selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F998B8A-27CB-42C0-B0EA-D9EA87710F1E}|Conversor\\Conversor.csproj|c:\\users\\edwin\\source\\repos\\conversor\\conversor\\models\\conversionmedidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F998B8A-27CB-42C0-B0EA-D9EA87710F1E}|Conversor\\Conversor.csproj|solutionrelative:conversor\\models\\conversionmedidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F998B8A-27CB-42C0-B0EA-D9EA87710F1E}|Conversor\\Conversor.csproj|C:\\Users\\edwin\\source\\repos\\Conversor\\conversor\\templates\\convertpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F998B8A-27CB-42C0-B0EA-D9EA87710F1E}|Conversor\\Conversor.csproj|solutionrelative:conversor\\templates\\convertpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F998B8A-27CB-42C0-B0EA-D9EA87710F1E}|Conversor\\Conversor.csproj|c:\\users\\edwin\\source\\repos\\conversor\\conversor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F998B8A-27CB-42C0-B0EA-D9EA87710F1E}|Conversor\\Conversor.csproj|solutionrelative:conversor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 461,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConvertPages.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\Conversor\\Conversor\\templates\\ConvertPages.cs",
+              "RelativeDocumentMoniker": "Conversor\\templates\\ConvertPages.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\Conversor\\Conversor\\templates\\ConvertPages.cs",
+              "RelativeToolTip": "Conversor\\templates\\ConvertPages.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAEwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:34:27.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WelcomePages.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\Conversor\\Conversor\\templates\\WelcomePages.cs",
+              "RelativeDocumentMoniker": "Conversor\\templates\\WelcomePages.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\Conversor\\Conversor\\templates\\WelcomePages.cs",
+              "RelativeToolTip": "Conversor\\templates\\WelcomePages.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:57:19.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Selection.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\Conversor\\Conversor\\models\\Selection.cs",
+              "RelativeDocumentMoniker": "Conversor\\models\\Selection.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\Conversor\\Conversor\\models\\Selection.cs",
+              "RelativeToolTip": "Conversor\\models\\Selection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwC8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:40:26.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConversionMedidas.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\Conversor\\Conversor\\models\\ConversionMedidas.cs",
+              "RelativeDocumentMoniker": "Conversor\\models\\ConversionMedidas.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\Conversor\\Conversor\\models\\ConversionMedidas.cs",
+              "RelativeToolTip": "Conversor\\models\\ConversionMedidas.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:42:58.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConvertPages.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\Conversor\\Conversor\\templates\\ConvertPages.cs",
+              "RelativeDocumentMoniker": "Conversor\\templates\\ConvertPages.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\Conversor\\Conversor\\templates\\ConvertPages.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Conversor\\templates\\ConvertPages.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:34:25.463Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\source\\repos\\Conversor\\Conversor\\Program.cs",
+              "RelativeDocumentMoniker": "Conversor\\Program.cs",
+              "ToolTip": "C:\\Users\\edwin\\source\\repos\\Conversor\\Conversor\\Program.cs",
+              "RelativeToolTip": "Conversor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:23:13.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 27,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

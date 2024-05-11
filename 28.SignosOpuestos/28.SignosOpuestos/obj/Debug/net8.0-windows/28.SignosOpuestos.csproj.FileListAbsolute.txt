@@ -1,0 +1,17 @@
+C:\Users\edwin\Desktop\codes\28.SignosOpuestos\28.SignosOpuestos\bin\Debug\net8.0-windows\28.SignosOpuestos.exe
+C:\Users\edwin\Desktop\codes\28.SignosOpuestos\28.SignosOpuestos\bin\Debug\net8.0-windows\28.SignosOpuestos.deps.json
+C:\Users\edwin\Desktop\codes\28.SignosOpuestos\28.SignosOpuestos\bin\Debug\net8.0-windows\28.SignosOpuestos.runtimeconfig.json
+C:\Users\edwin\Desktop\codes\28.SignosOpuestos\28.SignosOpuestos\bin\Debug\net8.0-windows\28.SignosOpuestos.dll
+C:\Users\edwin\Desktop\codes\28.SignosOpuestos\28.SignosOpuestos\bin\Debug\net8.0-windows\28.SignosOpuestos.pdb
+C:\Users\edwin\Desktop\codes\28.SignosOpuestos\28.SignosOpuestos\obj\Debug\net8.0-windows\_28.SignosOpuestos.Form1.resources
+C:\Users\edwin\Desktop\codes\28.SignosOpuestos\28.SignosOpuestos\obj\Debug\net8.0-windows\28.SignosOpuestos.csproj.GenerateResource.cache
+C:\Users\edwin\Desktop\codes\28.SignosOpuestos\28.SignosOpuestos\obj\Debug\net8.0-windows\28.SignosOpuestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\codes\28.SignosOpuestos\28.SignosOpuestos\obj\Debug\net8.0-windows\28.SignosOpuestos.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\codes\28.SignosOpuestos\28.SignosOpuestos\obj\Debug\net8.0-windows\28.SignosOpuestos.AssemblyInfo.cs
+C:\Users\edwin\Desktop\codes\28.SignosOpuestos\28.SignosOpuestos\obj\Debug\net8.0-windows\28.SignosOpuestos.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\codes\28.SignosOpuestos\28.SignosOpuestos\obj\Debug\net8.0-windows\28.SignosOpuestos.sourcelink.json
+C:\Users\edwin\Desktop\codes\28.SignosOpuestos\28.SignosOpuestos\obj\Debug\net8.0-windows\28.SignosOpuestos.dll
+C:\Users\edwin\Desktop\codes\28.SignosOpuestos\28.SignosOpuestos\obj\Debug\net8.0-windows\refint\28.SignosOpuestos.dll
+C:\Users\edwin\Desktop\codes\28.SignosOpuestos\28.SignosOpuestos\obj\Debug\net8.0-windows\28.SignosOpuestos.pdb
+C:\Users\edwin\Desktop\codes\28.SignosOpuestos\28.SignosOpuestos\obj\Debug\net8.0-windows\28.SignosOpuestos.genruntimeconfig.cache
+C:\Users\edwin\Desktop\codes\28.SignosOpuestos\28.SignosOpuestos\obj\Debug\net8.0-windows\ref\28.SignosOpuestos.dll

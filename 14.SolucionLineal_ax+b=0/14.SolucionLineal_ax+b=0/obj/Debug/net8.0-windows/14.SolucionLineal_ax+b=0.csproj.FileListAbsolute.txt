@@ -1,0 +1,17 @@
+C:\Users\edwin\Desktop\codes\14.SolucionLineal_ax+b=0\14.SolucionLineal_ax+b=0\bin\Debug\net8.0-windows\14.SolucionLineal_ax+b=0.exe
+C:\Users\edwin\Desktop\codes\14.SolucionLineal_ax+b=0\14.SolucionLineal_ax+b=0\bin\Debug\net8.0-windows\14.SolucionLineal_ax+b=0.deps.json
+C:\Users\edwin\Desktop\codes\14.SolucionLineal_ax+b=0\14.SolucionLineal_ax+b=0\bin\Debug\net8.0-windows\14.SolucionLineal_ax+b=0.runtimeconfig.json
+C:\Users\edwin\Desktop\codes\14.SolucionLineal_ax+b=0\14.SolucionLineal_ax+b=0\bin\Debug\net8.0-windows\14.SolucionLineal_ax+b=0.dll
+C:\Users\edwin\Desktop\codes\14.SolucionLineal_ax+b=0\14.SolucionLineal_ax+b=0\bin\Debug\net8.0-windows\14.SolucionLineal_ax+b=0.pdb
+C:\Users\edwin\Desktop\codes\14.SolucionLineal_ax+b=0\14.SolucionLineal_ax+b=0\obj\Debug\net8.0-windows\_14.SolucionLineal_ax_b_0.Form1.resources
+C:\Users\edwin\Desktop\codes\14.SolucionLineal_ax+b=0\14.SolucionLineal_ax+b=0\obj\Debug\net8.0-windows\14.SolucionLineal_ax+b=0.csproj.GenerateResource.cache
+C:\Users\edwin\Desktop\codes\14.SolucionLineal_ax+b=0\14.SolucionLineal_ax+b=0\obj\Debug\net8.0-windows\14.SolucionLineal_ax+b=0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\codes\14.SolucionLineal_ax+b=0\14.SolucionLineal_ax+b=0\obj\Debug\net8.0-windows\14.SolucionLineal_ax+b=0.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\codes\14.SolucionLineal_ax+b=0\14.SolucionLineal_ax+b=0\obj\Debug\net8.0-windows\14.SolucionLineal_ax+b=0.AssemblyInfo.cs
+C:\Users\edwin\Desktop\codes\14.SolucionLineal_ax+b=0\14.SolucionLineal_ax+b=0\obj\Debug\net8.0-windows\14.SolucionLineal_ax+b=0.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\codes\14.SolucionLineal_ax+b=0\14.SolucionLineal_ax+b=0\obj\Debug\net8.0-windows\14.SolucionLineal_ax+b=0.sourcelink.json
+C:\Users\edwin\Desktop\codes\14.SolucionLineal_ax+b=0\14.SolucionLineal_ax+b=0\obj\Debug\net8.0-windows\14.SolucionLineal_ax+b=0.dll
+C:\Users\edwin\Desktop\codes\14.SolucionLineal_ax+b=0\14.SolucionLineal_ax+b=0\obj\Debug\net8.0-windows\refint\14.SolucionLineal_ax+b=0.dll
+C:\Users\edwin\Desktop\codes\14.SolucionLineal_ax+b=0\14.SolucionLineal_ax+b=0\obj\Debug\net8.0-windows\14.SolucionLineal_ax+b=0.pdb
+C:\Users\edwin\Desktop\codes\14.SolucionLineal_ax+b=0\14.SolucionLineal_ax+b=0\obj\Debug\net8.0-windows\14.SolucionLineal_ax+b=0.genruntimeconfig.cache
+C:\Users\edwin\Desktop\codes\14.SolucionLineal_ax+b=0\14.SolucionLineal_ax+b=0\obj\Debug\net8.0-windows\ref\14.SolucionLineal_ax+b=0.dll

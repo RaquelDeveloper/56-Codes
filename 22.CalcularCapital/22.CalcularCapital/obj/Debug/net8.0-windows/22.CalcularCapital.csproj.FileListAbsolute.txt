@@ -1,0 +1,17 @@
+C:\Users\edwin\Desktop\codes\22.CalcularCapital\22.CalcularCapital\bin\Debug\net8.0-windows\22.CalcularCapital.exe
+C:\Users\edwin\Desktop\codes\22.CalcularCapital\22.CalcularCapital\bin\Debug\net8.0-windows\22.CalcularCapital.deps.json
+C:\Users\edwin\Desktop\codes\22.CalcularCapital\22.CalcularCapital\bin\Debug\net8.0-windows\22.CalcularCapital.runtimeconfig.json
+C:\Users\edwin\Desktop\codes\22.CalcularCapital\22.CalcularCapital\bin\Debug\net8.0-windows\22.CalcularCapital.dll
+C:\Users\edwin\Desktop\codes\22.CalcularCapital\22.CalcularCapital\bin\Debug\net8.0-windows\22.CalcularCapital.pdb
+C:\Users\edwin\Desktop\codes\22.CalcularCapital\22.CalcularCapital\obj\Debug\net8.0-windows\_22.CalcularCapital.Form1.resources
+C:\Users\edwin\Desktop\codes\22.CalcularCapital\22.CalcularCapital\obj\Debug\net8.0-windows\22.CalcularCapital.csproj.GenerateResource.cache
+C:\Users\edwin\Desktop\codes\22.CalcularCapital\22.CalcularCapital\obj\Debug\net8.0-windows\22.CalcularCapital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\codes\22.CalcularCapital\22.CalcularCapital\obj\Debug\net8.0-windows\22.CalcularCapital.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\codes\22.CalcularCapital\22.CalcularCapital\obj\Debug\net8.0-windows\22.CalcularCapital.AssemblyInfo.cs
+C:\Users\edwin\Desktop\codes\22.CalcularCapital\22.CalcularCapital\obj\Debug\net8.0-windows\22.CalcularCapital.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\codes\22.CalcularCapital\22.CalcularCapital\obj\Debug\net8.0-windows\22.CalcularCapital.sourcelink.json
+C:\Users\edwin\Desktop\codes\22.CalcularCapital\22.CalcularCapital\obj\Debug\net8.0-windows\22.CalcularCapital.dll
+C:\Users\edwin\Desktop\codes\22.CalcularCapital\22.CalcularCapital\obj\Debug\net8.0-windows\refint\22.CalcularCapital.dll
+C:\Users\edwin\Desktop\codes\22.CalcularCapital\22.CalcularCapital\obj\Debug\net8.0-windows\22.CalcularCapital.pdb
+C:\Users\edwin\Desktop\codes\22.CalcularCapital\22.CalcularCapital\obj\Debug\net8.0-windows\22.CalcularCapital.genruntimeconfig.cache
+C:\Users\edwin\Desktop\codes\22.CalcularCapital\22.CalcularCapital\obj\Debug\net8.0-windows\ref\22.CalcularCapital.dll

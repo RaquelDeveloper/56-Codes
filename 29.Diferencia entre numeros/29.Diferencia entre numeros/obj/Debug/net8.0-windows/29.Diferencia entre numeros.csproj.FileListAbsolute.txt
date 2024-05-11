@@ -1,0 +1,17 @@
+C:\Users\edwin\Desktop\codes\29.Diferencia entre numeros\29.Diferencia entre numeros\bin\Debug\net8.0-windows\29.Diferencia entre numeros.exe
+C:\Users\edwin\Desktop\codes\29.Diferencia entre numeros\29.Diferencia entre numeros\bin\Debug\net8.0-windows\29.Diferencia entre numeros.deps.json
+C:\Users\edwin\Desktop\codes\29.Diferencia entre numeros\29.Diferencia entre numeros\bin\Debug\net8.0-windows\29.Diferencia entre numeros.runtimeconfig.json
+C:\Users\edwin\Desktop\codes\29.Diferencia entre numeros\29.Diferencia entre numeros\bin\Debug\net8.0-windows\29.Diferencia entre numeros.dll
+C:\Users\edwin\Desktop\codes\29.Diferencia entre numeros\29.Diferencia entre numeros\bin\Debug\net8.0-windows\29.Diferencia entre numeros.pdb
+C:\Users\edwin\Desktop\codes\29.Diferencia entre numeros\29.Diferencia entre numeros\obj\Debug\net8.0-windows\_29.Diferencia_entre_numeros.Form1.resources
+C:\Users\edwin\Desktop\codes\29.Diferencia entre numeros\29.Diferencia entre numeros\obj\Debug\net8.0-windows\29.Diferencia entre numeros.csproj.GenerateResource.cache
+C:\Users\edwin\Desktop\codes\29.Diferencia entre numeros\29.Diferencia entre numeros\obj\Debug\net8.0-windows\29.Diferencia entre numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\Desktop\codes\29.Diferencia entre numeros\29.Diferencia entre numeros\obj\Debug\net8.0-windows\29.Diferencia entre numeros.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\codes\29.Diferencia entre numeros\29.Diferencia entre numeros\obj\Debug\net8.0-windows\29.Diferencia entre numeros.AssemblyInfo.cs
+C:\Users\edwin\Desktop\codes\29.Diferencia entre numeros\29.Diferencia entre numeros\obj\Debug\net8.0-windows\29.Diferencia entre numeros.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\codes\29.Diferencia entre numeros\29.Diferencia entre numeros\obj\Debug\net8.0-windows\29.Diferencia entre numeros.sourcelink.json
+C:\Users\edwin\Desktop\codes\29.Diferencia entre numeros\29.Diferencia entre numeros\obj\Debug\net8.0-windows\29.Diferencia entre numeros.dll
+C:\Users\edwin\Desktop\codes\29.Diferencia entre numeros\29.Diferencia entre numeros\obj\Debug\net8.0-windows\refint\29.Diferencia entre numeros.dll
+C:\Users\edwin\Desktop\codes\29.Diferencia entre numeros\29.Diferencia entre numeros\obj\Debug\net8.0-windows\29.Diferencia entre numeros.pdb
+C:\Users\edwin\Desktop\codes\29.Diferencia entre numeros\29.Diferencia entre numeros\obj\Debug\net8.0-windows\29.Diferencia entre numeros.genruntimeconfig.cache
+C:\Users\edwin\Desktop\codes\29.Diferencia entre numeros\29.Diferencia entre numeros\obj\Debug\net8.0-windows\ref\29.Diferencia entre numeros.dll
